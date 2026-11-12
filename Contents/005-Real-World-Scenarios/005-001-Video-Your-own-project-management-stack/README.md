@@ -1,0 +1,1 @@
+# [Your own project management stack](https://www.linkedin.com/learning/learning-docker-compose-simplified-multi-container-application-management/your-own-project-management-stack)

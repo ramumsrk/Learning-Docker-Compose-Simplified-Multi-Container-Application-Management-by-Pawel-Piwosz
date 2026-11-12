@@ -1,0 +1,1 @@
+# [Environment variables](https://www.linkedin.com/learning/learning-docker-compose-simplified-multi-container-application-management/environment-variables)

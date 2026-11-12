@@ -1,0 +1,1 @@
+# [Use dedicated network](https://www.linkedin.com/learning/learning-docker-compose-simplified-multi-container-application-management/use-dedicated-network)

@@ -1,0 +1,5 @@
+version: 5.7.1
+services:
+  hello-world:
+    image: hello-world:latest
+    container_name: first-hello-world-container
